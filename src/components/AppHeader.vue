@@ -1,0 +1,9 @@
+<template>
+  <header class="app-header">
+    <span class="logo">TODOS</span>
+  </header>
+</template>
+<script lang="ts">
+export default {};
+</script>
+<style scoped></style>
